@@ -7,4 +7,4 @@ I refactored the website to optimize the Search Engine Optimization and to make 
 ![screenshot of website](./assets/images/Screenshot.png)
 
 ## Link
-[deployed website]()
+[deployed website](https://juna-2017.github.io/horiseon_challenge/)
